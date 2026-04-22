@@ -43,8 +43,8 @@ Useful for:
 
 ## Demand Visualization
 
-### 1. Demand Trend
+### Demand Trend
 ![Demand Trend](images/demand_trend.png)
 
-### 2. Actual vs Forecast
-![Forecast Comparison](images/forecast_plot.png)
+### Actual vs Forecast
+![Forecast](images/actual_vs_forecast.png)
