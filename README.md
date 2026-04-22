@@ -40,3 +40,11 @@ Useful for:
 - Pandas
 - NumPy
 - Matplotlib
+
+## Demand Visualization
+
+### 1. Demand Trend
+![Demand Trend](images/demand_trend.png)
+
+### 2. Actual vs Forecast
+![Forecast Comparison](images/forecast_plot.png)
