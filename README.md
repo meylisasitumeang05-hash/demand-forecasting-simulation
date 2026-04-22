@@ -35,7 +35,7 @@ Useful for:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Pandas
 - NumPy
